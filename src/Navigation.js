@@ -25,6 +25,24 @@ function Navigation() {
             }
             </CardDeck>
         </Tab>
+        <Tab eventKey="works" title="Theses">
+            <CardDeck>
+                <Card border="secondary" style={{ width: '18rem' }}>
+                    <Card.Body>
+                        <Card.Title>Untersuchung von Modellreduktionsmethoden für Parameter-abhängige dynamische Systeme (2019)</Card.Title>
+                        <Card.Text>Bachelor Thesis Mathematics (In German). English Title: <i>Examination of model reduction methods for parameter-independent dynamical systems.</i></Card.Text>
+                        <Button target='_blank' href='https://ctcq.de/public/theses/bsc_math.pdf' variant='dark'>View PDF</Button>
+                    </Card.Body>
+                </Card>
+                <Card border="secondary" style={{ width: '18rem' }}>
+                    <Card.Body>
+                        <Card.Title>Security Assessment of RESTful APIs through Automated Penetration Testing</Card.Title>
+                        <Card.Text>Bachelor Thesis Computer Science.</Card.Text>
+                        <Button target='_blank' href='https://ctcq.de/public/theses/bsc_cs.pdf' variant='dark'>View PDF</Button>
+                    </Card.Body>
+                </Card>
+            </CardDeck>
+        </Tab>
         <Tab eventKey="about" title="About Me">
             <About/>
         </Tab>
