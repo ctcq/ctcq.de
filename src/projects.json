@@ -25,17 +25,17 @@
         "url": "https://github.com/ctcq/inventory-manager"
     },
     {
-        "title": "yaylist (2019)",
+        "title": "yaylist (2019; Legacy)",
         "text": "Download songs from a Spotify Playlist via youtube-dl.",
         "url": "https://github.com/ctcq/yaylist"
     },
     {
-        "title": "latin-glossary-creator",
+        "title": "latin-glossary-creator (2019)",
         "text": "Small tool for creating HTML glossaries for latin texts",
         "url": "https://github.com/ctcq/latin-glossary-creator"
     },
     {
-        "title": "Inventory Manager (Legacy)",
+        "title": "Inventory Manager (2018; Legacy)",
         "text": "Interactive table for stocktaking.",
         "url": "https://github.com/ctcq/inventory-manager-legacy"
     }
