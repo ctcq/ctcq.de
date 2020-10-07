@@ -5,6 +5,7 @@ import Tabs from 'react-bootstrap/Tabs';
 import Home from './Home';
 import About from './About';
 import Project from './Project';
+import Card from './react-bootstrap/Card'
 import CardDeck from 'react-bootstrap/CardDeck';
 
 import projects from './projects.json';
