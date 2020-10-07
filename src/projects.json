@@ -1,0 +1,42 @@
+[
+    {
+        "title": "message-service",
+        "text": "Purposefully insecure RestAPI / Frontend demonstrating XSS-, SQL-Injection, Man-in-the-middle-vulnerabilities.",
+        "url": "https://zivgitlab.uni-muenster.de/c_wied05/bachelorarbeit-beispielprogramme"
+    },
+    {
+        "title": "Newsbot (2020)",
+        "text": "Telegram Bot for RSS-Feeds, Reminders, etc.",
+        "url": "https://github.com/ctcq/newsbot"
+    },
+    {
+        "title": "Orchid (2020; Abandoned)",
+        "text": "Generalization of the Newsbot. Media routing service for arbitrary endpoints.",
+        "url": "https://github.com/ctcq/orchid"
+    },
+    {
+        "title": "ctcq.de (2020)",
+        "text": "This website.",
+        "url": "https://github.com/ctcq/ctcq.de"
+    },
+    {
+        "title": "Inventory Manager (2020; WIP)",
+        "text": "Interactive table for stocktaking.",
+        "url": "https://github.com/ctcq/inventory-manager"
+    },
+    {
+        "title": "yaylist (2019)",
+        "text": "Download songs from a Spotify Playlist via youtube-dl.",
+        "url": "https://github.com/ctcq/yaylist"
+    },
+    {
+        "title": "latin-glossary-creator",
+        "text": "Small tool for creating HTML glossaries for latin texts",
+        "url": "https://github.com/ctcq/latin-glossary-creator"
+    },
+    {
+        "title": "Inventory Manager (Legacy)",
+        "text": "Interactive table for stocktaking.",
+        "url": "https://github.com/ctcq/inventory-manager-legacy"
+    }
+]
