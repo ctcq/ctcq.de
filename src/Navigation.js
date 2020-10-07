@@ -5,7 +5,7 @@ import Tabs from 'react-bootstrap/Tabs';
 import Home from './Home';
 import About from './About';
 import Project from './Project';
-import CardDeck from './react-bootstrap/CardDeck';
+import CardDeck from 'react-bootstrap/CardDeck';
 import Card from 'react-bootstrap/Card'
 import Button from 'react-bootstrap/esm/Button';
 
