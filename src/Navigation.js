@@ -20,7 +20,7 @@ function Navigation() {
             <CardDeck>
             {
                 projects.map((project) => {
-                    <Project title={project.title} text={project.text} url={project.url}/>;
+                    return <Project title={project.title} text={project.text} url={project.url}/>;
                 })
             }
             </CardDeck>
